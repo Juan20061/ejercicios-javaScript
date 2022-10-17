@@ -1,0 +1,38 @@
+﻿body{
+    margin:10px;
+    padding:0px;
+    text-align:left;
+    font-family:Tahoma;
+    font-size:12px;
+    color:black;
+    line-height:14px;
+}
+
+section{
+    width:300px;
+}
+
+a{
+    text-decoration:underline;
+    color:#519FC3;
+}
+
+/*Estilo de identificacion*/
+#marco1 {
+    background: url("cl.jpg") bottom left no-repeat;
+    margin: 12px 10px 15px 19px;
+}
+
+#marco2{
+    margin:20px 8px 0px 90px;
+}
+
+/*Estilo de Clase*/
+.linea{
+    width:250px;
+    height:1px;
+}
+
+.link{
+    float:right;
+}

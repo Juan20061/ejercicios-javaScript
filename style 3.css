@@ -1,0 +1,18 @@
+﻿td {
+    padding: 0;
+    background-image: url("bebe.jpg");
+    width:359px;
+    height:144px;
+    float:top;
+}
+
+.link{
+    color:blue;
+    float:right;
+}
+
+section{
+    margin-left:146px;
+    margin-top:40px;
+    margin-right:15px;
+}
